@@ -1,8 +1,12 @@
 # vis145a project
-This is the midterm project for vis145a.
+This is the midterm project for course vis145a.
 This project pretends to be a simulator of the Geisel Library, but would actually pop up many windows appeared in zoom. 
 
 I am fascinated with the history of malware and most of my inspirations come from the malware examples, especially the TECHNO virus (https://archive.org/details/malware_TECHNO.COM), when i was browsing through the Malware Museum. According to Regine Debatty in "Malware: What if we looked at computer viruses as works of design?", she points out that the record of malwares not only shows the viewers about historical record of the development malwares, but also brings artists and designers critical reflections about aggressiveness and malice existing in these computer viruses as an art form. I agree that the aggressiveness expressed in malware provides a way to raise people’s awareness of cybersecurity and pay attention to invisible phenomenon behind the daily scenes yet highly impacts their real life. I feel that malware acts like a subject itself instead of a tool that is supposed to meet the satisfaction of the users. Sometimes they would wipe out users' information and database to create a sense of destruction and desperation, while users have no power to control or resist the process. Similarly, due to the pandemic, my normal life as a student has been disrupted in many ways.  I want to use this chance to reflect on the online education experience which is not consistent with the traditional teaching. For my project, basically, i want to convey the sense of feeling shared by the current generation of students when we have to take online courses for almost a year at the pandemic period. By using both the Geisel library image and screenshots of zoom buttons, it creats a comparison between the traditioanl study experience and the online education that students at my generation have to face at this particualr time period. Additionally, those screenshots from Zoom are supposed to amplify the slight frustration when i encounter pops-up windows from zoom meeting everytime when i join online lectures. 
 
 Reference:
 Geisel library image: https://en.wikipedia.org/wiki/Geisel_Library
+code reference:
+https://pythonprogramming.net/making-interactive-pygame-buttons/
+https://pythonprogramming.net/pygame-button-function-events/
+https://stackoverflow.com/questions/47639826/pygame-button-single-click
